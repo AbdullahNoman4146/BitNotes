@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645896172204",
+    "project_id": "bitnotes-1311c",
+    "storage_bucket": "bitnotes-1311c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645896172204:android:3d00a582e8b49f9960a509",
+        "android_client_info": {
+          "package_name": "com.example.bitnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa0aINloPoVHLs67QSdt98XGA8i4KrXKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
